@@ -1,4 +1,4 @@
-# interesting companies
+# Interesting Companies
 
 ## Palantir
 
